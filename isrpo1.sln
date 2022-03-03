@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isrpo1", "isrpo1\isrpo1.csproj", "{AE091755-E499-4F68-8D54-6923D8E16D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isrpo2", "isrpo2\isrpo2.csproj", "{293FD7DD-C564-49E5-BD78-C5EF098A2080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE091755-E499-4F68-8D54-6923D8E16D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE091755-E499-4F68-8D54-6923D8E16D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE091755-E499-4F68-8D54-6923D8E16D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE091755-E499-4F68-8D54-6923D8E16D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293FD7DD-C564-49E5-BD78-C5EF098A2080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293FD7DD-C564-49E5-BD78-C5EF098A2080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293FD7DD-C564-49E5-BD78-C5EF098A2080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293FD7DD-C564-49E5-BD78-C5EF098A2080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7DA4D6-8A3C-443E-A4EB-D6178C631FDA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\isrpo1\isrpo1\bin\Debug\isrpo1.exe.config
+C:\Users\1\source\repos\isrpo1\isrpo1\bin\Debug\isrpo1.exe
+C:\Users\1\source\repos\isrpo1\isrpo1\bin\Debug\isrpo1.pdb
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.Form1.resources
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.Properties.Resources.resources
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.csproj.GenerateResource.cache
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.exe
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.pdb
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.Form3.resources
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.Form4.resources
+C:\Users\1\source\repos\isrpo1\isrpo1\obj\Debug\isrpo1.Form2.resources
